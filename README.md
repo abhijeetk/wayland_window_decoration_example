@@ -9,3 +9,6 @@ The window decoration consists of:
 
 Build dependencies:
 `sudo apt install libwayland-dev libegl1-mesa-dev wayland-protocols libwayland-bin extra-cmake-modules`
+
+# Build
+`cmake CMakeLists.txt && make`
